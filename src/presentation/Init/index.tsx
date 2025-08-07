@@ -2,7 +2,7 @@ import { Button } from '@/components/atoms/button';
 
 export const Init = () => {
   return (
-    <div className="container mx-auto px-2 pt-10 pb-20">
+    <div className="container mx-auto max-w-[1333px] px-2 pt-10 pb-20">
       <div className="relative overflow-hidden rounded-3xl">
         <img src="/images/bg-hero.jpg" alt="bg-hero" className="min-h-[400px] w-full bg-center object-cover" />
         <div className="absolute inset-0 bg-black/90"></div>
