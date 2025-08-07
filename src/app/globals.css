@@ -6,8 +6,13 @@
 
 @theme {
   --color-primary: #e00700;
-  --color-secondary: #000;
+  --color-secondary: #000101;
   --text: #ffffff;
+  --container: ;
+}
+@utility container {
+  padding-inline: auto;
+  margin-inline: auto;
 }
 
 body {

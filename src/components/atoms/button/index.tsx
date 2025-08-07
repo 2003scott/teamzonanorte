@@ -13,9 +13,9 @@ const buttonVariants = cva(
         secondary: 'bg-secondary text-white shadow hover:bg-secondary/90'
       },
       size: {
-        default: 'h-9 rounded-md px-8 py-2',
+        default: 'h-9 rounded-md px-8 py-3',
         sm: 'h-8 rounded-md px-3 text-xs',
-        md: 'h-9 px-4 py-2',
+        md: 'h-9 px-4 py-3',
         icon: 'h-9 w-9',
         none: ''
       }
